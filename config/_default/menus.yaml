@@ -15,6 +15,6 @@ main:
     parent: python
     
   - name: "How to use Numpy"
-    url: /#Numpy
+    url: '/Numpy'
     weight: 20
     parent: python
