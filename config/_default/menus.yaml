@@ -7,11 +7,14 @@ main:
   - name: "Python"
     url: /
     weight: 10
+    identifier: 'python'
     
   - name: "How to format your code"
     url: /
-    weight: 20
+    weight: 10
+    parent: python
     
   - name: "How to use Numpy"
     url: /
-    weight: 30
+    weight: 20
+    parent: python
