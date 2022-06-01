@@ -4,7 +4,14 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
+  - name: "Python"
     url: /
     weight: 10
-
+    
+  - name: "How to format your code"
+    url: /
+    weight: 20
+    
+  - name: "How to use Numpy"
+    url: /
+    weight: 30
